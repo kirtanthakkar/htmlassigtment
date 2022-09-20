@@ -1,0 +1,196 @@
+
+.nav
+{
+    float: left;
+}
+ul
+{   
+    height: 40px;
+}
+li
+{
+    list-style: none;
+    float: left;
+    padding-left: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+li:hover
+{
+     color: maroon;
+}
+.model
+{
+    margin: 10px;
+    text-align: center;
+}
+.model:hover
+{
+    color: maroon;
+}
+.types
+{
+    margin-left: 14cm;
+    margin-right: 14cm;
+    text-align: center;
+}
+.venue img
+{
+    height: 300px;
+    width: 50%;
+    margin-left: 420px;
+}
+.t1
+{
+    margin-left: 420px;
+    width: 60%;
+}
+.abc
+{
+    height: 80px;
+}
+.abc1
+{
+    height: 100px;
+    margin-left: 10%;
+}
+.abc1 input
+{
+    height: 3em;
+    width: 15em;
+    background-color: grey;
+    color: white;
+    font-size: 17px;
+    cursor: pointer;
+}
+.bcd
+{
+ height: 160px;
+ background-color: blue;   
+}
+.photos
+{
+    margin-left: 200px;
+}
+.xyz
+{
+    height: 100px;
+    margin-left: 40%;
+}
+.xyz input
+{
+height: 3em;
+width: 15em;
+background-color: blue;
+color: white;
+font-size: 17px;
+cursor: pointer;
+}
+.def
+{
+background-color: blue;
+}
+.light{
+    height: 600px;
+    background-image: url('LIght.jpg');
+    margin-top: 10%;
+    
+}
+.light h1{
+    color: black;
+    margin-left: 45%;
+    padding-top: 7%;
+}
+.light .back{
+     height: 300px;
+     background-color: white;
+     margin-left: 5%;
+     margin-right: 5%;
+     margin-top: 2%;
+}
+.back p{
+text-align: center;
+font-size: 20px;
+}
+.back{
+    text-align: center;
+    font-size: 40px;
+}
+.font{
+    height: 80px;
+    background-color: #002c57;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+.font{
+    color: white;
+}
+.font img{
+    margin-top: 1%;
+    padding-right: 1%;
+}
+.font ul li a{
+    color: #999;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+.font a{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    margin-left: 11%;
+    margin-top: 1%;
+
+}
+.font a:hover{
+    border-bottom: 3px solid white;
+}
+
+.pq
+{
+    height: 150px;
+    background-color: white;
+}
+.pq h3
+{
+    color: black;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.pq p
+{
+    margin-left: 40%;
+}
+.kt
+{
+    height: 80px;
+    margin-left: 35%;
+}
+
+.mn
+{
+    height: 220px;
+    background-color: #212529;
+}
+.kt1
+{
+    height: 100px;
+    margin-left: 42%;
+}
+.kt1 input
+{
+    height: 3em;
+    width: 10em;
+    background-color: blue;
+    font-size: 17px;
+    cursor: pointer;
+}
+.mn1
+{
+    padding: 60px;
+    margin-left: 180px;
+    color: gray;
+}
